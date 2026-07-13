@@ -1,4 +1,4 @@
- 
+  
 # 🧩 XAI (Explainable AI) Audit Protocol
 
 ## 📌 Deskripsi
@@ -124,15 +124,20 @@ Ini adalah medan perang baru: **perang membongkar kotak hitam**.
 # 🧩 XAI (Explainable AI) Audit Protocol
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-
-## 📌 Deskripsi
-Repo ini berisi panduan teknis objektif untuk melakukan **audit transparansi dan akuntabilitas** pada model kecerdasan buatan berbasis *black-box*.  
-Fokus utama protokol ini adalah verifikasi validitas metrik eksplanasi menggunakan instrumen *open‑source* yang sudah terstandarisasi.  
-Tujuan: membuka "kotak hitam" machine learning agar keputusan model bisa dipahami, diaudit, dan diverifikasi.
+ 
+### 📌 Deskripsi
+- Repo ini berisi panduan teknis objektif untuk melakukan **audit transparansi dan akuntabilitas** pada model kecerdasan buatan berbasis *black-box*.  
+- Fokus utama protokol ini adalah verifikasi validitas metrik eksplanasi menggunakan instrumen *open‑source* yang sudah terstandarisasi.  
+- Tujuan: membuka "kotak hitam" machine learning agar keputusan model bisa dipahami, diaudit, dan diverifikasi.
 
 ---
 
-## 📑 Lisensi
+ > Transparansi algoritma dengan Explainable AI — membongkar bias, menguji stabilitas, dan membuka kotak hitam model AI untuk **forensik digital & advokasi HAM**.
+
+## 📖 Dokumentasi lengkap, studi kasus, dan tabel audit tersedia di **[Wiki Repo](https://github.com/BlackAlph4ndr01D/xai-audit-protocol/wiki)**.
+
+---
+#### 📑 Lisensi
 Proyek ini dilisensikan di bawah **[Apache License 2.0](ca://s?q=Apache_License_2_0)**.  
 Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini, dengan syarat mencantumkan atribusi dan mengikuti ketentuan lisensi.  
 
