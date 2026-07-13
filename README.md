@@ -11,14 +11,12 @@ Tujuan: membuka "kotak hitam" machine learning agar keputusan model bisa dipaham
 ## 1. Lingkup Metodologi & Alat Audit
 
 Audit dilakukan menggunakan kombinasi framework eksternal untuk menguji apakah interpretasi yang dihasilkan model bersifat stabil dan valid.
-
-| Aspek Audit | Metode Pengujian | Alat / Instrumen Riil |
-| :--- | :--- | :--- |
-| **Atribusi Fitur** | Mengukur kontribusi fitur global dan lokal secara kooperatif game‑theoretic. | `shap`, `lime` |
-| **Evaluasi Kausal** | Menguji skenario "bagaimana jika" untuk melihat ambang batas perubahan keputusan model. | `dice-ml` |
+| Aspek Audit            | Metode Pengujian | Alat / Instrumen Riil |
+|-------------------------|------------------|-----------------------|
+| **Atribusi Fitur**      | Mengukur kontribusi fitur global dan lokal secara kooperatif game‑theoretic. | `shap`, `lime` |
+| **Evaluasi Kausal**     | Menguji skenario "bagaimana jika" untuk melihat ambang batas perubahan keputusan model. | `dice-ml` |
 | **Stabilitas Eksplanasi** | Menguji sensitivitas nilai atribusi terhadap gangguan kecil (*noise*) pada input. | `captum`, `scikit-learn` |
-| **Kepatuhan Bias** | Mengukur metrik keadilan (*fairness*) seperti *disparate impact* dan *equalized odds*. | `aif360`, `fairlearn` |
-
+| **Kepatuhan Bias**      | Mengukur metrik keadilan (*fairness*) seperti *disparate impact* dan *equalized odds*. | `aif360`, `fairlearn` |
 ---
 
 ## 2. Struktur Repositori Minimum
