@@ -77,14 +77,15 @@ Tujuannya: mengubah AI dari “black box” menjadi sistem transparan.
 
 ### Teknik Utama
 
-| Teknik                 | Cara Kerja                  | Kelebihan             | Kekurangan             | Kegunaan Militer                |
-|------------------------|-----------------------------|-----------------------|------------------------|---------------------------------|
-| **LIME**               | Model lokal sederhana       | Mudah dipahami        | Tidak konsisten        | Analisis satu target Lavender   |
-| **SHAP**               | Shapley values              | Akurat & konsisten    | Komputasi berat        | Skor ancaman (lokasi, komunikasi) |
-| **Feature Importance** | Ranking fitur               | Cepat                 | Tidak jelaskan interaksi | Audit bias dataset             |
-| **Counterfactual**     | “Apa yang harus berubah?”   | Intuitif              | Kadang tidak realistis | Arbel AI Rifle                  |
-| **Attention Visualization** | Fokus model            | Bagus visual          | Sulit model kompleks   | Drone SITS                      |
-| **Partial Dependence Plot** | Hubungan fitur-output  | Mudah divisualisasi   | Terbatas variabel      | Analisis usia/lokasi            |
+| Teknik                   | Cara Kerja                | Kelebihan           | Kekurangan             | Kegunaan Militer              |
+|---------------------------|---------------------------|---------------------|------------------------|-------------------------------|
+| **LIME**                  | Model lokal sederhana     | Mudah dipahami      | Tidak konsisten        | Analisis satu target Lavender |
+| **SHAP**                  | Shapley values            | Akurat & konsisten  | Komputasi berat        | Skor ancaman (lokasi, komunikasi) |
+| **Feature Importance**    | Ranking fitur             | Cepat               | Tidak jelaskan interaksi | Audit bias dataset           |
+| **Counterfactual**        | “Apa yang harus berubah?” | Intuitif            | Kadang tidak realistis | Arbel AI Rifle                |
+| **Attention Visualization** | Fokus model             | Bagus visual        | Sulit model kompleks   | Drone SITS                    |
+| **Partial Dependence Plot** | Hubungan fitur-output   | Mudah divisualisasi | Terbatas variabel      | Analisis usia/lokasi          |
+Analisis usia/lokasi            |
 
 ---
 
