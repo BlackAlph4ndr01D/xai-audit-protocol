@@ -54,10 +54,11 @@ xai-audit-protocol/
 ---
 
 ## 📊 Perbandingan LIME vs SHAP
-| **Metode** | **Kelebihan** | **Kekurangan** | **Cocok untuk** |
-|------------|---------------|----------------|-----------------|
-| **LIME** | Cepat, sederhana, model-agnostic | Bisa tidak konsisten antar run | Penjelasan lokal (satu prediksi) |
-| **SHAP** | Teori kuat (Shapley values), hasil konsisten | Lebih berat komputasi | Penjelasan global + lokal |
+
+| Metode   | Kelebihan                                | Kekurangan                  | Cocok untuk                  |
+|----------|------------------------------------------|-----------------------------|------------------------------|
+| **LIME** | Cepat, sederhana, model-agnostic         | Bisa tidak konsisten antar run | Penjelasan lokal (satu prediksi) |
+| **SHAP** | Teori kuat (Shapley values), hasil konsisten | Lebih berat komputasi        | Penjelasan global + lokal    |
 
 ---
 
