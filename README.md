@@ -1,5 +1,5 @@
  
- # 🧩 XAI (Explainable AI) Audit Protocol
+# 🧩 XAI (Explainable AI) Audit Protocol
 
 ## 📌 Deskripsi
 Repo ini berisi panduan teknis objektif untuk melakukan **audit transparansi dan akuntabilitas** pada model kecerdasan buatan berbasis *black-box*.  
@@ -42,6 +42,9 @@ xai-audit-protocol/
 ```
 
 ---
+
+<img width="max" height="max" alt="Gemini_Generated_Image_vvfo93vvfo93vvfo" src="https://github.com/user-attachments/assets/f886716d-ac01-4b58-9507-3f1233203c80" />
+
 
 ## 📌 Struktur Ideal Halaman *Explainable AI* di Wiki GitHub
 - **Pendahuluan XAI** → kenapa AI perlu bisa dijelaskan, terutama di konteks militer (transparansi, akuntabilitas, etika).  
